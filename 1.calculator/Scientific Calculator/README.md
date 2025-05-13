@@ -2,7 +2,7 @@
 
 ## Project: Scientific Calculator (Terminal-Based)
 
-This repository contains a collection of Python projects for learning and practice. The main highlight is a robust, terminal-based scientific calculator that supports a wide range of mathematical operations and functions.
+This folder contains a feature-rich, terminal-based scientific calculator project built in Python. The calculator supports a wide range of mathematical operations and functions, and is designed for hands-on learning and practical use.
 
 ### Features
 
@@ -44,6 +44,18 @@ This repository contains a collection of Python projects for learning and practi
 
 - `1.calculator/` — Calculator scripts (scientific and simple)
 - `README.md` — This file
+
+### What I Used and Learned
+
+- **Safe evaluation:** How to use Python's `eval()` securely by restricting available functions and constants.
+- **Python math module:** Using a wide range of mathematical functions and constants from the `math` module.
+- **String parsing:** Building and validating mathematical expressions as strings.
+- **User input handling:** Capturing and processing keyboard input in the terminal.
+- **Error handling:** Managing invalid input, math errors, and edge cases gracefully.
+- **ASCII art UI:** Designing a user-friendly calculator interface using print statements.
+- **Modular programming:** Organizing code into clear, reusable functions.
+- **Help/documentation:** Providing in-app help and usage instructions for users.
+- **Project structuring:** Separating code and documentation for maintainability.
 
 ---
 
