@@ -13,7 +13,7 @@ This repository contains two terminal-based calculator projects built in Python,
   - A basic calculator that supports addition, subtraction, multiplication, and division.
   - Features a clear ASCII-art interface and keyboard-driven input.
   - Great for learning Python basics, user input, and string manipulation.
-  - See the [Simple Calculator README](./1.calculator/Simple%20Calculator/README.md) for details.
+  - See the [Simple Calculator README](./Simple%20Calculator/README.md) for details.
 
 ### 2. Scientific Calculator
 
@@ -22,7 +22,7 @@ This repository contains two terminal-based calculator projects built in Python,
   - A feature-rich scientific calculator supporting a wide range of mathematical functions (trigonometry, logarithms, powers, factorial, etc.) and constants (`pi`, `e`, `tau`).
   - Uses Python's `math` module and safe evaluation for expressions.
   - Includes a help system, error handling, and an ASCII-art UI.
-  - See the [Scientific Calculator README](./1.calculator/Scientific%20Calculator/README.md) for full features and usage.
+  - See the [Scientific Calculator README](./Scientific%20Calculator/README.md) for full features and usage.
 
 ---
 
