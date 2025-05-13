@@ -1,4 +1,14 @@
-from msvcrt import getch
+# from msvcrt import getch  # For Windows
+from getch import getch  # For Linux/WSL
+
+def get_input():
+    try:
+        from msvcrt import getch  # For Windows
+        return getch().decode()
+    except ImportError:
+        from getch import getch   # For Linux/WSL/macOS
+        return getch()  # Already a string
+
 import sys, os
 
 def display_calculator(display:str):
@@ -17,9 +27,9 @@ def display_calculator(display:str):
     print("| |___|___|___| |___| |")
     print("|_____________________|")
 
-def get_input():
-    key = getch()
-    return key.decode()
+# def get_input():
+#     key = getch()
+#     return key.decode()
 
 operators = ['+', '-', '/', '*', '%'] 
 
@@ -108,12 +118,12 @@ def handle_expression(expression: str, key: str) -> str:
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
-    print("\n" * 100)   
+    print("\n" * 10)   
 
 def main():
     expression = ""
     while True:
-        # clear_screen()
+        clear_screen()
         display_calculator(expression)
         if expression == "Error":
             expression = ""

@@ -2,6 +2,10 @@
 
 This is a basic terminal-based calculator written in Python. It allows you to perform simple arithmetic operations with a user-friendly ASCII-art interface.
 
+## Demo
+
+[![asciicast](https://asciinema.org/a/zF1llvfQrkmqpzsTvmkbdrVda.svg)](https://asciinema.org/a/zF1llvfQrkmqpzsTvmkbdrVda)
+
 ## Features
 
 - Addition, subtraction, multiplication, and division
