@@ -37,5 +37,3 @@ This repository is a collection of Python projects created for learning and prac
 ---
 
 More projects will be added over time. Each project is designed to be easy to understand and modify, making this repository a great resource for anyone learning Python by building real applications.
-
-**Happy coding and
