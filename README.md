@@ -12,6 +12,30 @@ This repository is a collection of Python projects created for learning and prac
 
 ---
 
+### 2. Student Management System
+
+- **Folder:** [`2_student_management_system/`](./2_student_management_system/)
+- **Description:** Manage student records, including adding, updating, deleting, and searching for students. Demonstrates file handling and basic CRUD operations.
+- **How to use:** See [`2_student_management_system/README.md`](./2_student_management_system/README.md) for details.
+
+---
+
+### 3. Contact Book
+
+- **Folder:** [`3_contact_book/`](./3_contact_book/)
+- **Description:** A simple contact management application to add, search, update, and delete contacts. Focuses on data structures and user interaction.
+- **How to use:** See [`3_contact_book/README.md`](./3_contact_book/README.md) for details.
+
+---
+
+### 4. Library Management System
+
+- **Folder:** [`4_library_management_system/`](./4_library_management_system/)
+- **Description:** An OOP-based system for managing books, members, borrowing, returning, and reviews. Demonstrates encapsulation, abstraction, and menu-driven interfaces.
+- **How to use:** See [`4_library_management_system/README.md`](./4_library_management_system/README.md) for details.
+
+---
+
 More projects will be added over time. Each project is designed to be easy to understand and modify, making this repository a great resource for anyone learning Python by building real applications.
 
-**Happy coding and exploring!**
+**Happy coding and
