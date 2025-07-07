@@ -6,17 +6,17 @@ This repository is a collection of Python projects created for learning and prac
 
 ### 1. Scientific Calculator (Terminal-Based)
 
-- **Folder:** [`1.calculator/`](./1.calculator/)
+- **Folder:** [`1.calculator/`](./1_calculator/)
 - **Description:** A robust, terminal-based scientific calculator supporting arithmetic, scientific functions, and safe evaluation. Includes a help system and ASCII-art UI.
-- **How to use:** See [`1.calculator/README.md`](./1.calculator/README.md) for full details and usage examples.
+- **How to use:** See [`1.calculator/README.md`](./1_calculator/README.md) for full details and usage examples.
 
 ---
 
 ### 2. Student Management System
 
-- **Folder:** [`2_student_management_system/`](./2_student_management_system/)
+- **Folder:** [`2_student_management_system/`](./2_grade_app/)
 - **Description:** Manage student records, including adding, updating, deleting, and searching for students. Demonstrates file handling and basic CRUD operations.
-- **How to use:** See [`2_student_management_system/README.md`](./2_student_management_system/README.md) for details.
+- **How to use:** See [`2_student_management_system/README.md`](./2_grade_app/README.md) for details.
 
 ---
 
